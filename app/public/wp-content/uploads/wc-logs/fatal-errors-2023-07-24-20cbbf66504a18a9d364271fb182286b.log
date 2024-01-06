@@ -1,0 +1,20 @@
+2023-07-24T15:19:25+00:00 CRITICAL Cannot redeclare ashe_kalam_font_url() (previously declared in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\functions.php:29) dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\ashe\functions.php à la ligne 250
+
+2023-07-24T15:19:28+00:00 CRITICAL Cannot redeclare ashe_kalam_font_url() (previously declared in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\functions.php:29) dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\ashe\functions.php à la ligne 250
+
+2023-07-24T15:22:48+00:00 CRITICAL Cannot redeclare ashe_kalam_font_url() (previously declared in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\functions.php:29) dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\ashe\functions.php à la ligne 250
+
+2023-07-24T15:23:12+00:00 CRITICAL Cannot redeclare ashe_kalam_font_url() (previously declared in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\functions.php:29) dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\ashe\functions.php à la ligne 250
+
+2023-07-24T15:28:29+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\ashe\functions.php à la ligne 255
+
+2023-07-24T15:29:39+00:00 CRITICAL Cannot redeclare ashe_kalam_font_url() (previously declared in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\functions.php:29) dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\ashe\functions.php à la ligne 249
+
+2023-07-24T16:35:52+00:00 CRITICAL Cannot redeclare ashe_rokkitt_font_url() (previously declared in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\functions.php:34) dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\index.php à la ligne 83
+
+2023-07-24T16:49:53+00:00 CRITICAL Cannot redeclare ashe_rokkitt_font_url() (previously declared in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\functions.php:34) dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\index.php à la ligne 83
+
+2023-07-24T16:51:34+00:00 CRITICAL Cannot redeclare ashe_rokkitt_font_url() (previously declared in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\functions.php:34) dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\index.php à la ligne 83
+
+2023-07-24T16:51:58+00:00 CRITICAL Cannot redeclare ashe_rokkitt_font_url() (previously declared in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\functions.php:34) dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\index.php à la ligne 83
+

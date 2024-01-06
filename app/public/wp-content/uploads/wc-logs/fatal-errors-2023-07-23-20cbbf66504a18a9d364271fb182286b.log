@@ -1,0 +1,2 @@
+2023-07-23T17:22:01+00:00 CRITICAL Cannot redeclare ashe_kalam_font_url() (previously declared in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\chicdressing\functions.php:29) dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\themes\ashe\functions.php à la ligne 250
+

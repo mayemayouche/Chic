@@ -1,0 +1,36 @@
+2023-07-30T18:19:19+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack_Boost\Modules\Optimizations\Lazy_Images\Lazy_Images' not found in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\modules\Modules_Index.php:47
+Stack trace:
+#0 C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\modules\Modules_Setup.php(20): Automattic\Jetpack_Boost\Modules\Modules_Index->__construct()
+#1 C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\class-jetpack-boost.php(99): Automattic\Jetpack_Boost\Modules\Modules_Setup->__construct()
+#2 C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\jetpack-boost.php(144): Automattic\Jetpack_Boost\Jetpack_Boost->__construct()
+#3 C:\Users\utilisateur\Local Sites\chic\app\public\wp-includes\class-wp-hook.php(308): Automattic\Jetpack_Boost\run_jetpack_boost('')
+#4 C:\Users\utilisateur\Local Sites\chic\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 C dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\modules\Modules_Index.php à la ligne 47
+
+2023-07-30T18:23:39+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack_Boost\Modules\Optimizations\Lazy_Images\Lazy_Images' not found in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\modules\Modules_Index.php:47
+Stack trace:
+#0 C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\modules\Modules_Setup.php(20): Automattic\Jetpack_Boost\Modules\Modules_Index->__construct()
+#1 C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\class-jetpack-boost.php(99): Automattic\Jetpack_Boost\Modules\Modules_Setup->__construct()
+#2 C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\jetpack-boost.php(144): Automattic\Jetpack_Boost\Jetpack_Boost->__construct()
+#3 C:\Users\utilisateur\Local Sites\chic\app\public\wp-includes\class-wp-hook.php(308): Automattic\Jetpack_Boost\run_jetpack_boost('')
+#4 C:\Users\utilisateur\Local Sites\chic\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 C dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\modules\Modules_Index.php à la ligne 47
+
+2023-07-30T18:25:06+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack_Boost\Modules\Optimizations\Lazy_Images\Lazy_Images' not found in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\modules\Modules_Index.php:47
+Stack trace:
+#0 C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\modules\Modules_Setup.php(20): Automattic\Jetpack_Boost\Modules\Modules_Index->__construct()
+#1 C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\class-jetpack-boost.php(99): Automattic\Jetpack_Boost\Modules\Modules_Setup->__construct()
+#2 C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\jetpack-boost.php(144): Automattic\Jetpack_Boost\Jetpack_Boost->__construct()
+#3 C:\Users\utilisateur\Local Sites\chic\app\public\wp-includes\class-wp-hook.php(308): Automattic\Jetpack_Boost\run_jetpack_boost('')
+#4 C:\Users\utilisateur\Local Sites\chic\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 C dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\modules\Modules_Index.php à la ligne 47
+
+2023-07-30T18:25:50+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack_Boost\Modules\Optimizations\Lazy_Images\Lazy_Images' not found in C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\modules\Modules_Index.php:47
+Stack trace:
+#0 C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\modules\Modules_Setup.php(20): Automattic\Jetpack_Boost\Modules\Modules_Index->__construct()
+#1 C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\class-jetpack-boost.php(99): Automattic\Jetpack_Boost\Modules\Modules_Setup->__construct()
+#2 C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\jetpack-boost.php(144): Automattic\Jetpack_Boost\Jetpack_Boost->__construct()
+#3 C:\Users\utilisateur\Local Sites\chic\app\public\wp-includes\class-wp-hook.php(308): Automattic\Jetpack_Boost\run_jetpack_boost('')
+#4 C:\Users\utilisateur\Local Sites\chic\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 C dans C:\Users\utilisateur\Local Sites\chic\app\public\wp-content\plugins\jetpack-boost\app\modules\Modules_Index.php à la ligne 47
+
